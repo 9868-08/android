@@ -1,0 +1,4 @@
+-a----        14.11.2023     14:44      916404074 crDroidAndroid-13.0-20231113-jason-v9.11.zip
+-a----        14.11.2023     15:50      119871242 miflash_unlock_en_7.6.727.43.zip
+-a----        04.12.2023     14:47      110378181 NikGapps-core-arm64-13-20230716-signed.zip
+-a----        04.12.2023     11:54       30281728 twrp-3.7.0_9-0-jason-TeamWin.img
